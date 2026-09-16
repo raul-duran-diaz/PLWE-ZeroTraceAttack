@@ -6,4 +6,4 @@ Each one is tailored to a particular selection of input parameters, and
 otherwise identical.
 
 The user is invited to download anyone of them, change the parameters
-execute the trace attack algorithm.
+and execute the trace attack algorithm.
